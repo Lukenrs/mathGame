@@ -79,7 +79,8 @@ reset = () => {
     input:"começar",
     result:'',
     msg:'',
-    ver:false
+    ver:false,
+    num:true
   })
 }
 
